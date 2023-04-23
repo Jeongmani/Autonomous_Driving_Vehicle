@@ -2,6 +2,9 @@
 
 ## Reinforcement learning - Evaluation
 
+<p align="center">
+<img width="700" src="../image/Evaluation.png">
+</p>
 
 ### Training configuration  
 
@@ -17,4 +20,12 @@
 <img width="700" src="../image/action_space.png">
 </p>
 
+<p align="center">
+<img width="700" src="../image/training.png">
+</p>
+
 ### Reward graph  
+
+<p align="center">
+<img width="700" src="../image/Reward_Graph.png">
+</p>
