@@ -13,5 +13,5 @@ AWS DeepRacer - Fully autonomous 1/18th scale car
 ## Vehicle - Appearance
 
 <p align="center">
-<img width="700" src="/image/1.png">
+<img width="700" src="/image/Apperance.png">
 </p>
