@@ -3,7 +3,7 @@
 ## Reinforcement learning - Evaluation
 
 <p align="center">
-<img width="550" src="../../image/Evaluation.png">
+<img width="550" src="../../image/Evaluation_v1.png">
 </p>
 
 ### Training configuration  
@@ -12,20 +12,20 @@
 - Environment simulation : A to Z speedway - Clockwise  
 - Hyperprameter  
 <p align="center">
-<img width="550" src="../../image/hyperparameter.png">
+<img width="550" src="../../image/hyperparameter_v1.png">
 </p>
 
 - Action space 
 <p align="center">
-<img width="550" src="../../image/action_space.png">
+<img width="550" src="../../image/action_space_v1.png">
 </p>
 
 <p align="center">
-<img width="550" src="../../image/training.png">
+<img width="550" src="../../image/training_v1.png">
 </p>
 
 ### Reward graph  
 
 <p align="center">
-<img width="550" src="../../image/Reward_Graph.png">
+<img width="550" src="../../image/Reward_Graph_v1.png">
 </p>
