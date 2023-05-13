@@ -7,7 +7,7 @@
 
 ## Lane Detection
 
-1. Road Segemntation 
+1. Road Segmentation
 
 <p align="center">
 <img width="700" src="../image/road_segmentation.gif">
