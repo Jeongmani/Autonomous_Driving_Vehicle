@@ -1,8 +1,8 @@
 ## Contents
 
 ### Result 
-<p align="center">
-<img width="700" src="../image/Result.gif">
+<p align="left">
+<img width="500" src="../image/Result.gif">
 </p>
 
 ### My Version
