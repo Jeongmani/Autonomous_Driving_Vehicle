@@ -1,4 +1,8 @@
-# Autonomous_Driving_Vehicle
+# Create Segmentation_pkg
 
-## ROS2 Goal
-- ▶︎ [1. image_display_pkg 만들기](https://github.com/Jeongmani/Autonomous_Driving_Vehicle/tree/main/ROS2/Create%20image_display_pkg)
+## Goal
+**OpenVINO**에서 다운로드 받은 **road-segmentation-adas-0001** 모델을 로드하여 **camera_pkg**에서 받은 영상을 segmentation하여 **inference_pkg**로 전달
+
+### How to make Segmentation_pkg
+
+
