@@ -3,7 +3,7 @@
 ## Reinforcement learning - Evaluation
 
 <p align="center">
-<img width="500" src="../../image/Result.gif">
+<img width="500" src="../../image/Evaluation_Result.gif">
 </p>
 
 <p align="center">
