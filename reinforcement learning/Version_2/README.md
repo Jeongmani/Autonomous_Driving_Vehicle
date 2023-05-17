@@ -2,9 +2,14 @@
 
 ## Reinforcement learning - Evaluation
 
+<p align="left">
+<img width="500" src="../../image/Result.gif">
+</p>
+
 <p align="center">
 <img width="550" src="../../image/Evaluation_v2.png">
 </p>
+
 
 ### Training configuration  
 
