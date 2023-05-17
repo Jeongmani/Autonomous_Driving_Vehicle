@@ -1,8 +1,10 @@
 # Create image_display_pkg
 
+## Goal
+
 **sensor_fusion_pkg/overlay_msg를 받아서 opencv로 디스플레이하는 image_display_pkg를 만들기**
 
-##
+### How to make image_display_pkg
 
 1.  현재 딥레이서 안에서 노드들 사이에서 통신하기 위해 노드들이 보내는 토픽 리스트를 확인
 
