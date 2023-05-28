@@ -3,7 +3,7 @@
 ## Real-World Result
 
 <p align="center">
-<img width="300" src="/image/Real_World.gif">
+<img width="200" src="/image/Real_World.gif">
 </p>
 
 ## Vehicle - Under the hood
