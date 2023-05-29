@@ -3,15 +3,15 @@
 ## Result  
 
 <p align="center">
-<img width="700" src="../image/Create_Segmentation_pkg.png">
+<img width="700" src="../../image/Create_Segmentation_pkg.png">
 </p>
 - Resized Result
 <p align="center">
-<img width="700" src="../image/Resized_Result.png">
+<img width="700" src="../../image/Resized_Result.png">
 </p> 
 - Segmentation Result
 <p align="center">
-<img width="700" src="../image/Segmentation_Result.png">
+<img width="700" src="../../image/Segmentation_Result.png">
 </p> 
  
 
