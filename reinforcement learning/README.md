@@ -4,11 +4,11 @@
 - ▶︎ **AWS-May 2023 Qualifier**
 
 <p align="left">
-<img width="500" src="../image/AWS-May 2023 Qualifier.gif">
+<img width="500" src="../image/best_model.png">
 </p>
 
 <p align="left">
-<img width="500" src="../image/AWS-May 2023 Qualifier_rank.png">
+<img width="500" src="../image/best_model_rank.png">
 </p>
 
 
