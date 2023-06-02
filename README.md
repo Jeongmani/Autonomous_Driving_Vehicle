@@ -1,7 +1,7 @@
 # Autonomous_Driving_Vehicle
 
 ## Real-World Result
-
+- Best lap Time in real world : 7.13sec
 <p align="center">
 <img width="500" src="/image/best_model_real.gif">
 </p>
